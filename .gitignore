@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Problems/Convert to bytes/out/
+/Problems/Convert to bytes/out/production/classes/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Days of the week/out/
+/Problems/Days of the week/out/production/classes/
+/Problems/Employee/out/
+/Problems/Employee/out/production/classes/
+/Problems/Overloading methods/out/
+/Problems/Overloading methods/out/production/classes/
+/Problems/Print/out/
+/Problems/Print/out/production/classes/
+/Problems/Reverse input text/out/
+/Problems/Reverse input text/out/production/classes/
+/Problems/Robot control/out/
+/Problems/Robot control/out/production/classes/
+/Problems/Throw a checked exception/out/
+/Problems/Throw a checked exception/out/production/classes/
